@@ -20,7 +20,8 @@
 * @Environment
 
 ## 🚀 시연 영상
-
+![다크모드and라이트모드](https://github.com/Sang-Mini/SimpleTodo/assets/105893642/9a9bc0e6-cffe-46af-a4c0-fd98f1d1dc31) ![날짜별목록추가](https://github.com/Sang-Mini/SimpleTodo/assets/105893642/801e855d-b4e7-4b89-8ecf-83dc45c7d9fe) ![목록추가](https://github.com/Sang-Mini/SimpleTodo/assets/105893642/3bb9c378-6512-4d6d-9c3c-110a8699f38b)
+![스와이프](https://github.com/Sang-Mini/SimpleTodo/assets/105893642/12a129b2-6b86-4af5-9021-c99acf8afa26)![코어데이터](https://github.com/Sang-Mini/SimpleTodo/assets/105893642/18690120-5569-44bd-a41b-d30d24056e3c)
 
 ## 🤩 배운 점
 * **Core Data** : Core Data를 사용하면서 데이터베이스 관련 작업을 효과적으로 처리할 수 있으며, 데이터 모델을 구성하는 방법을 익혔습니다.
